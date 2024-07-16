@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# First time, set up globus :
+# globus login
+
 in_files="" # file to be transfer (relative or full path)
 dest_folder="" # Destination folder
 transfert_list="transfert_list.txt" # list of files and destination
